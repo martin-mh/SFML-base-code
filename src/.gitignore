@@ -1,0 +1,4 @@
+*.o
+sfml-basecode
+*.pro.user
+*.autosave
